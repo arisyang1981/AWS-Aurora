@@ -5,7 +5,9 @@ https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/CHAP_AuroraOverview
 
 # Core concepts:
 Better performance than RDS. \
-Primary and replca share storage. \
+Primary and replica share storage. \
+Primary and replica instances. \
+Instances and Storage. \
 
 # Share storage
 https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
