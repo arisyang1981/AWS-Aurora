@@ -14,3 +14,7 @@ Cluster parameters and instance parameters. \
 # Share storage
 https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
 
+# Parameters: Cluster vs instacne parameters
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithDBClusterParamGroups.html \
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/USER_WorkingWithDBInstanceParamGroups.html \
+
