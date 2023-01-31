@@ -9,6 +9,7 @@ Primary and replica instances. \
 Primary and replica share storage. \
 Instances and Storage. \
 Instance local temp storage and cluster sharable permanant storage. \
+Cluster parameters and instance parameters. \
 
 # Share storage
 https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
