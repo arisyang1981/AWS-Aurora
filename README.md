@@ -11,8 +11,10 @@ Instances and Storage. \
 Instance local temp storage and cluster sharable permanant storage. \
 Cluster parameters and instance parameters. \
 
-# Share storage
-https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/
+# Shared storage
+https://aws.amazon.com/blogs/database/introducing-the-aurora-storage-engine/ \
+Shrink storage and save cost once reclaim space for Aurora. \
+https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/Aurora.Managing.Performance.html \
 
 # Parameters: Cluster vs instacne parameters
 https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/parameter-groups-overview.html \
